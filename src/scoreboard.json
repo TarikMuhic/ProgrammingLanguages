@@ -1,0 +1,22 @@
+{
+  "Tarik": {
+    "wins": 2,
+    "games_played": 5
+  },
+  "Alice": {
+    "wins": 0,
+    "games_played": 2
+  },
+  "bakir": {
+    "wins": 1,
+    "games_played": 3
+  },
+  "ramo": {
+    "wins": 0,
+    "games_played": 1
+  },
+  "elmin": {
+    "wins": 0,
+    "games_played": 1
+  }
+}

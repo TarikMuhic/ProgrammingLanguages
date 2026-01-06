@@ -1,0 +1,11 @@
+{
+  "player": "mire",
+  "word": "coding",
+  "placeholder": "___i__",
+  "guessed_letters": [
+    "a",
+    "m",
+    "i"
+  ],
+  "lives": 4
+}
