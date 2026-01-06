@@ -116,7 +116,7 @@ def play_game(state)
 
       if state['placeholder'] == state['word']
         puts STAGES[6]
-        puts "\n🎉 YOU WIN! 🎉".green.bold
+        puts "\nYOU WIN! ".green.bold
         puts "The word was '#{state['word']}'".green
         update_scoreboard(state['player'], true)
         break
@@ -127,7 +127,7 @@ def play_game(state)
 
       if state['lives'] <= 0
         puts STAGES[6]
-        puts "\n💀 YOU LOST! 💀".red.bold
+        puts "\nYOU LOST! ".red.bold
         puts "The word was '#{state['word']}'".red
         update_scoreboard(state['player'], false)
         break

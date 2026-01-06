@@ -1,11 +1,12 @@
 {
-  "player": "mire",
-  "word": "coding",
-  "placeholder": "___i__",
+  "player": "bake",
+  "word": "lova",
+  "placeholder": "l__a",
   "guessed_letters": [
-    "a",
-    "m",
-    "i"
+    "l",
+    "e",
+    "r",
+    "a"
   ],
   "lives": 4
 }
