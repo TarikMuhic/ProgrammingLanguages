@@ -2,6 +2,7 @@ require 'json'
 require 'io/console'
 require 'colorize'
 
+
 # ------------------ HANGMAN STAGES -------------------
 STAGES = [
   "\n  +---+\n  |   |\n      |\n      |\n      |\n      |\n=========\n",
