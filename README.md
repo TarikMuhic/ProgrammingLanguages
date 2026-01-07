@@ -1,0 +1,1 @@
+This is a simple Hangman game written in Ruby. The player tries to guess a hidden word by suggesting letters before running out of attempts. The game randomly selects a word from a predefined list and shows the correctly guessed letters as the game progresses. It runs in the command line and provides feedback on remaining attempts and letters already guessed.
